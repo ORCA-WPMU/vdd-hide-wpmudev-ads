@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Hide WPMU DEV Ads
+Plugin Name: VDD: Hide WPMU DEV Ads
 Plugin URI: https://github.com/rveitch/vdd-hide-wpmudev-ads
 Description: Hides WPMU DEV plugin banner messages from displaying in the WordPress Admin Dashboard.
 Author: Ryan Veitch | Veitch Digital Design
